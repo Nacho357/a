@@ -1,0 +1,16 @@
+git init
+//inicia git 
+git remute add {url}
+//vinculamos con repositorio
+git clone
+//clonamos repositorio
+git add {nombre del archivo}
+//añade el archivo
+git add .
+//añade todos los archivos
+git status
+//muestra estado y cambios
+git commit -m "mensaje de confirmación"
+//crea punto para guardar 
+git push origin main
+//sube el desded el punto de guardado a github
