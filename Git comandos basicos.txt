@@ -1,7 +1,7 @@
 git init
 //inicia git 
 git branch -M main
-//no se que hace pero si no lo hago no puedo subir archivos xd
+//inicia la rama
 git remote add {url}
 //vinculamos con repositorio
 git clone
